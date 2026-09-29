@@ -17,6 +17,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 11. [Linked List Reversal](11.linked_list_reversal.py) - Reverses a singly linked list with iterative and recursive implementations.
 12. [Remove Kth Node from the End](12.remove_kth_last_node.py) - Removes the node that is k positions from the end of a singly linked list using a dummy head and two pointers.
 13. [Linked List Intersection](13.linked_list_intersection.py) - Finds the first common node in two singly linked lists by traversing both lists with two pointers.
+14. [LRU Cache](14.lru_cache.py) - Implements a least-recently-used cache with a hashmap and a doubly linked list, evicting the least recently used entry when capacity is exceeded.
 
 ## Running a solution
 
