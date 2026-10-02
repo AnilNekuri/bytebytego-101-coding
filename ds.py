@@ -8,3 +8,9 @@ class DoublyLinkedListNode:
        self.key = key
        self.val = val
        self.next = self.prev = None
+
+class MultiLevelListNode:
+    def __init__(self, val, next, child):
+        self.val = val
+        self.next = next
+        self.child = child

@@ -19,6 +19,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 13. [Linked List Intersection](13.linked_list_intersection.py) - Finds the first common node in two singly linked lists by traversing both lists with two pointers.
 14. [LRU Cache](14.lru_cache.py) - Implements a least-recently-used cache with a hashmap and a doubly linked list, evicting the least recently used entry when capacity is exceeded.
 15. [Palindromic Linked List](15.palindromic_linked_list.py) - Checks whether a singly linked list is a palindrome by comparing nodes from the front and middle of the list.
+16. [Flatten a Multi-Level Linked List](16.palindromic_linked_list.py) - Flattens a multilevel linked list by appending each child list to the tail of the main list.
 
 ## Running a solution
 
