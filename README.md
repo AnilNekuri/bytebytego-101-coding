@@ -21,6 +21,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 15. [Palindromic Linked List](15.palindromic_linked_list.py) - Checks whether a singly linked list is a palindrome by comparing nodes from the front and middle of the list.
 16. [Flatten a Multi-Level Linked List](16.palindromic_linked_list.py) - Flattens a multilevel linked list by appending each child list to the tail of the main list.
 17. [Linked List Loop](17.linked_list_loop.py) - Detects whether a linked list contains a cycle using slow and fast pointers.
+18. [Linked List Midpoint](18.linked_list_midpoint.py) - Given a singly linked list, find and return its middle node. If there are two middle nodes, return the second one.
 
 ## Running a solution
 
