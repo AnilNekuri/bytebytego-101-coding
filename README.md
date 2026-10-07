@@ -22,6 +22,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 16. [Flatten a Multi-Level Linked List](16.palindromic_linked_list.py) - Flattens a multilevel linked list by appending each child list to the tail of the main list.
 17. [Linked List Loop](17.linked_list_loop.py) - Detects whether a linked list contains a cycle using slow and fast pointers.
 18. [Linked List Midpoint](18.linked_list_midpoint.py) - Given a singly linked list, find and return its middle node. If there are two middle nodes, return the second one.
+19. [Happy Number](19.happy_number.py) - Determines whether a number is happy by using slow and fast pointers to detect a cycle in the sum-of-squared-digits sequence.
 
 ## Running a solution
 
