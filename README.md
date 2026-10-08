@@ -23,6 +23,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 17. [Linked List Loop](17.linked_list_loop.py) - Detects whether a linked list contains a cycle using slow and fast pointers.
 18. [Linked List Midpoint](18.linked_list_midpoint.py) - Given a singly linked list, find and return its middle node. If there are two middle nodes, return the second one.
 19. [Happy Number](19.happy_number.py) - Determines whether a number is happy by using slow and fast pointers to detect a cycle in the sum-of-squared-digits sequence.
+20. [Substring Anagrams](20.substring_anagrams.py) - Counts the number of contiguous substrings of a string that are anagrams of a target string using fixed-size sliding windows and frequency arrays.
 
 ## Running a solution
 
