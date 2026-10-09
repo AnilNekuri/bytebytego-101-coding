@@ -24,6 +24,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 18. [Linked List Midpoint](18.linked_list_midpoint.py) - Given a singly linked list, find and return its middle node. If there are two middle nodes, return the second one.
 19. [Happy Number](19.happy_number.py) - Determines whether a number is happy by using slow and fast pointers to detect a cycle in the sum-of-squared-digits sequence.
 20. [Substring Anagrams](20.substring_anagrams.py) - Counts the number of contiguous substrings of a string that are anagrams of a target string using fixed-size sliding windows and frequency arrays.
+21. [Longest Substring Without Repeating Characters](21.longest_substring_with_unique_chars.py) - Finds the length of the longest substring without repeating characters using a sliding window and a hash map.
 
 ## Running a solution
 
