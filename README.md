@@ -26,6 +26,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 20. [Substring Anagrams](20.substring_anagrams.py) - Counts the number of contiguous substrings of a string that are anagrams of a target string using fixed-size sliding windows and frequency arrays.
 21. [Longest Substring Without Repeating Characters](21.longest_substring_with_unique_chars.py) - Finds the length of the longest substring without repeating characters using a sliding window and a hash map.
 22. [Longest Uniform Substring After Replacements](22.longest_uniform_substring_after_replacements.py) - Finds the longest substring that can be made uniform by changing at most k characters using a sliding window and frequency tracking.
+23. [Find the Insertion Index](23.find_the_insertion_index.py) - Returns the index where a target value should be inserted into a sorted array while preserving order.
 
 ## Running a solution
 
