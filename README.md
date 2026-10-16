@@ -27,6 +27,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 21. [Longest Substring Without Repeating Characters](21.longest_substring_with_unique_chars.py) - Finds the length of the longest substring without repeating characters using a sliding window and a hash map.
 22. [Longest Uniform Substring After Replacements](22.longest_uniform_substring_after_replacements.py) - Finds the longest substring that can be made uniform by changing at most k characters using a sliding window and frequency tracking.
 23. [Find the Insertion Index](23.find_the_insertion_index.py) - Returns the index where a target value should be inserted into a sorted array while preserving order.
+24. [First and Last Occurrences of a Number](24.first_and_last_occurrences_of_a_number.py) - Finds the first and last indices of a target in a sorted array using binary search.
 
 ## Running a solution
 
