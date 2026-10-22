@@ -30,6 +30,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 24. [First and Last Occurrences of a Number](24.first_and_last_occurrences_of_a_number.py) - Finds the first and last indices of a target in a sorted array using binary search.
 25. [Cutting Wood](25.cutting_wood.py) - Finds the maximum saw height that cuts at least the required amount of wood using binary search.
 26. [Find the Target in a Rotated Sorted Array](26.find_the_target_in_a_rotated_sorted_array.py) - Finds the index of a target in a rotated sorted array using binary search.
+27. [Find the Median from Two Sorted Arrays](27.find_the_median_from_two_sorted_arrays.py) - Finds the median by merging the arrays up to the middle. The current solution uses O(n) time and O(n) space; TODO: improve it later.
 
 ## Running a solution
 
