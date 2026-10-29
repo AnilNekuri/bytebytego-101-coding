@@ -33,6 +33,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 27. [Find the Median from Two Sorted Arrays](27.find_the_median_from_two_sorted_arrays.py) - Finds the median by merging the arrays up to the middle. The current solution uses O(n) time and O(n) space; TODO: improve it later.
 28. [Matrix Search](28.matrix_search.py) - Searches a row-wise sorted matrix for a target using binary search on its flattened indices.
 29. [Local Maxima in Array](29.local_maxima_in_array.py) - Finds a local maximum in an array using binary search.
+30. [Weighted Random Selection](30.WeightedRandomSelection.py) - Selects an index at random with probability proportional to its weight using prefix sums and binary search.
 
 ## Running a solution
 
