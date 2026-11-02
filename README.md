@@ -34,6 +34,8 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 28. [Matrix Search](28.matrix_search.py) - Searches a row-wise sorted matrix for a target using binary search on its flattened indices.
 29. [Local Maxima in Array](29.local_maxima_in_array.py) - Finds a local maximum in an array using binary search.
 30. [Weighted Random Selection](30.WeightedRandomSelection.py) - Selects an index at random with probability proportional to its weight using prefix sums and binary search.
+31. [Valid Parenthesis Expression](31.valid_parenthesis_expression.py) - Checks whether a string contains balanced parentheses, brackets, and braces using a stack.
+32. [Next Largest Number to the Right](32.next_largest_number_to_the_right.py) - Finds the next greater element to the right for each element using a monotonic decreasing stack. The current implementation works, but this code needs to be optimized.
 
 ## Running a solution
 
