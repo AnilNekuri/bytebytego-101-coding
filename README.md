@@ -37,6 +37,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 31. [Valid Parenthesis Expression](31.valid_parenthesis_expression.py) - Checks whether a string contains balanced parentheses, brackets, and braces using a stack.
 32. [Next Largest Number to the Right](32.next_largest_number_to_the_right.py) - Finds the next greater element to the right for each element using a monotonic decreasing stack. The current implementation works, but this code needs to be optimized.
 33. [Evaluate Expression](33.evaluate_expression.py) - Evaluates an arithmetic expression with integers, addition, subtraction, and parentheses using a stack.
+34. [Repeated Removal of Adjacent Duplicates](34.repeated_removal_of_adjacent_duplicates.py) - Repeatedly removes adjacent duplicate characters using a stack until no such pair remains.
 
 ## Running a solution
 
