@@ -38,6 +38,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 32. [Next Largest Number to the Right](32.next_largest_number_to_the_right.py) - Finds the next greater element to the right for each element using a monotonic decreasing stack. The current implementation works, but this code needs to be optimized.
 33. [Evaluate Expression](33.evaluate_expression.py) - Evaluates an arithmetic expression with integers, addition, subtraction, and parentheses using a stack.
 34. [Repeated Removal of Adjacent Duplicates](34.repeated_removal_of_adjacent_duplicates.py) - Repeatedly removes adjacent duplicate characters using a stack until no such pair remains.
+35. [Implement a Queue Using Stacks](35.Implement_a_queue_using_stacks.py) - Implements a queue with enqueue, dequeue, and peek operations using two stacks.
 
 ## Running a solution
 
