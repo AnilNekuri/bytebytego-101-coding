@@ -1,16 +1,18 @@
 from typing import List
 
 def maximums_of_sliding_window(nums: List[int], k: int) -> List[int]:
-    # Write your code here
     result = []
     dequeue = []
+    # when k > len of input array
     if k > len(nums):
         return result
+    # build dequeue and result for 1st k 
     for i in range(k):
         while dequeue and dequeue[-1][0] <= nums[i]:
              dequeue.pop()
         dequeue.append((nums[i],i))
     result.append(dequeue[0][0])
+    # build dequeue and result for after k
     for i in range(k,len(nums)):
         while dequeue and dequeue[-1][0] <= nums[i]:
              dequeue.pop()
