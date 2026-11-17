@@ -39,6 +39,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 33. [Evaluate Expression](33.evaluate_expression.py) - Evaluates an arithmetic expression with integers, addition, subtraction, and parentheses using a stack.
 34. [Repeated Removal of Adjacent Duplicates](34.repeated_removal_of_adjacent_duplicates.py) - Repeatedly removes adjacent duplicate characters using a stack until no such pair remains.
 35. [Implement a Queue Using Stacks](35.Implement_a_queue_using_stacks.py) - Implements a queue with enqueue, dequeue, and peek operations using two stacks.
+37. [K Most Frequent Strings](37.k_most_frequent_strings.py) - Finds the k most frequently occurring strings.
 
 ## Running a solution
 
