@@ -41,6 +41,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 35. [Implement a Queue Using Stacks](35.Implement_a_queue_using_stacks.py) - Implements a queue with enqueue, dequeue, and peek operations using two stacks.
 37. [K Most Frequent Strings](37.k_most_frequent_strings.py) - Finds the k most frequently occurring strings.
 38. [Combine Sorted Linked Lists](38.combine_sorted_linked_lists.py) - Merges multiple sorted linked lists into one sorted linked list using a min-heap.
+39. [Median of an Integer Stream](39.median_of_an_integer_stream.py) - Maintains a stream of integers and calculates the median using a max heap for the lower half and a min heap for the upper half.
 
 ## Running a solution
 
