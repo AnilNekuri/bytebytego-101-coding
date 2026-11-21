@@ -42,6 +42,7 @@ My Python solutions to the ByteByteGo 101 coding interview problems, listed in t
 37. [K Most Frequent Strings](37.k_most_frequent_strings.py) - Finds the k most frequently occurring strings.
 38. [Combine Sorted Linked Lists](38.combine_sorted_linked_lists.py) - Merges multiple sorted linked lists into one sorted linked list using a min-heap.
 39. [Median of an Integer Stream](39.median_of_an_integer_stream.py) - Maintains a stream of integers and calculates the median using a max heap for the lower half and a min heap for the upper half.
+40. [Sort a K-Sorted Array](40.sort_a_k_sorted_array.py) - Sorts an array whose elements are at most k positions from their sorted locations using a min-heap.
 
 ## Running a solution
 
